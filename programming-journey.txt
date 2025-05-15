@@ -1,0 +1,21 @@
+## Target Sebagai Seorang Web Developer
+1. Menguasai Vanilla CSS3 (✓)
+2. Membuat Project Dengan Vanilla CSS3 (✓)
+3. Membuat Project Menggunakan Framework CSS - Bootstrap ( )
+4. Menguasai Native PHP (✓)
+5. Membuat Project Tingkat Lanjut Menggunakan Native PHP (✓)
+6. Menguasai RDBMS MySQL (✓)
+7. Membuat Project Menggunakan Framework PHP - Laravel ( )
+8. Menguasai Dasar Native JavaScript (✓)
+9. Menguasai Native JavaScript ( )
+10. Menggunakan JQuery dalam Project (✓)
+11. Menggunakan Framework JavaScript - React ( )
+12. Membuat Project Menggunakan React JS ( )
+
+## Membuat Modul Pembelajaran Junior Web Developer Sesuai SKKNI
+1. HTML5 (✓)
+2. CSS3 (✓)
+3. Bootstrap (✓)
+4. Berpikir Komputasional dan Algoritma Pemrograman (✓)
+5. JavaScript (✓)
+6. PHP (✓)
